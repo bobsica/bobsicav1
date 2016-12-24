@@ -11,7 +11,7 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 :+1:
 
-math below and emoji above? or even inline: \\( sin(x^2) \\)
+math below and emoji above? or even inline: \\\( sin(x^2) \\\)
 
 $$ \Omega = \frac{A}{r^2} $$
 
