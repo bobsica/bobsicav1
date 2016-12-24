@@ -11,6 +11,6 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 :+1:
 
-\\[\Omega = \frac{A}{r^2} \\]
+$$\Omega = \frac{A}{r^2}$$
 
 math and emoji above?
